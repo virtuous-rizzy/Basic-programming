@@ -94,12 +94,12 @@ public class ProgramMenu {
                     System.out.println("Anda kelebihan berat badan tingkat berat");
                 }
                 break;
-            case 4 :
-            System.out.println("+-----------ABOUT ME-----------+");
-            System.out.println("|Nama : MUHAMMAD RIZKY AKBAR   |");
-            System.out.println("|NIM  : 2411016310005          |");
-            System.out.println("+------------------------------+");
-
+            case 4:
+                System.out.println("+-----------ABOUT ME-----------+");
+                System.out.println("|Nama : MUHAMMAD RIZKY AKBAR   |");
+                System.out.println("|NIM  : 2411016310005          |");
+                System.out.println("+------------------------------+");
+                break;
             default:
                 System.err.println("MAAF INPUT TIDAK VALID");
                 break;
